@@ -7,7 +7,6 @@ brew "tmux"
 brew "age"
 brew "ansible"
 brew "ansible-lint"
-brew "irssi" ## terminal-based IRC client
 brew "sops"
 
 ## Media tools
