@@ -1,4 +1,5 @@
 ## Core utilities
+brew "git"
 brew "htop"
 brew "tmux"
 
@@ -6,7 +7,7 @@ brew "tmux"
 brew "age"
 brew "ansible"
 brew "ansible-lint"
-# brew "git" ## using Xcode's git package
+brew "irssi" ## terminal-based IRC client
 brew "sops"
 
 ## Media tools
@@ -15,6 +16,5 @@ brew "yt-dlp"
 
 ## Monitoring
 # brew "nmap"
-# brew "smartmontools"
-# brew "wireshark"
 cask "stats"
+# cask "wireshark"
