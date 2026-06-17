@@ -1,4 +1,4 @@
-# Base packages & utilities
+# macOS Dotfiles & system configuration
 
 ## Homebrew
 
